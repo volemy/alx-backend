@@ -9,7 +9,7 @@ from flask_babel import Babel
 
 class Config(object):
     """
-    Returning
+    Returns:
     """
     LANGUAGES = ['en', 'fr']
     BABEL_DEFAULT_LOCALE = 'en'
